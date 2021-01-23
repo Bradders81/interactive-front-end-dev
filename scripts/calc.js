@@ -1,4 +1,4 @@
-Calculator = Funcation(); {
+Calculator = function () {
     this.value = 0;
 }
 
